@@ -5,7 +5,7 @@ int lastY;
 
 void setup(){
   size(500,500);
-  background(255);
+  background(0);
   
   // change line width/weight
   strokeWeight(10);
